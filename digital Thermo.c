@@ -1,3 +1,9 @@
+// Jan 2013
+// Created by Pitias Fessahaie
+// Email selamptsegu@gmail.com
+// Digital Thermometer Display
+
+
 // LCD module connections
 sbit LCD_RS at RB5_bit;
 sbit LCD_EN at RB4_bit;
